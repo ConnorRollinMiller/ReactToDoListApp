@@ -1,0 +1,12 @@
+.row {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: auto
+}
+
+.listItemText {
+	font-size: 1.25em;
+	justify-self: start;
+	margin: 0;
+}
